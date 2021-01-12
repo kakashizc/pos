@@ -13,7 +13,7 @@ class Index extends Api
     protected $noNeedRight = ['*'];
 
     /**
-     * 首页
+     * 首页123
      *
      */
     public function index()
